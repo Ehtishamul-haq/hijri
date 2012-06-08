@@ -1,4 +1,4 @@
 hijri
 =====
 
-calculatibg hijri date from
+calculates the hijri date for the current date
