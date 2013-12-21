@@ -1,3 +1,5 @@
+# comment added by shaghil
+
 def gmod(n,m)
 	((n%m)+m)%m
 end
